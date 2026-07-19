@@ -22,7 +22,7 @@ A modern, full-stack travel planning platform with AI-powered itinerary generati
 
 ## Project Structure
 
-```text
+`text
 travel/
   backend/
     app/
